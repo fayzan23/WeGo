@@ -1,5 +1,4 @@
-Autonomous Delivery Hub
-Welcome to our cutting-edge web-based application, the Autonomous Delivery Hub! Designed to revolutionize the delivery ecosystem, this platform seamlessly connects users and suppliers, enabling them to engage in a state-of-the-art autonomous vehicle delivery system.
+Welcome to  WeGo! Designed to revolutionize the delivery ecosystem, this platform seamlessly connects users and suppliers, enabling them to engage in a state-of-the-art autonomous vehicle delivery system.
 
 Key Features
 1. User and Supplier Sign-Up/Sign-In
@@ -15,7 +14,7 @@ Immerse yourself in a visually stunning and intuitive user interface that provid
 Explore the comprehensive order history feature, allowing users to review and track their past orders. Gain insights into your delivery patterns and preferences with just a few clicks.
 
 How It Works
-Sign Up/Sign In: Create your account or log in to get started on the Autonomous Delivery Hub.
+Sign Up/Sign In: Create your account or log in to get started on WeGo.
 
 Place Orders: Easily place orders for essential items, knowing they will be efficiently delivered by our autonomous vehicle system.
 
@@ -23,4 +22,4 @@ Real-time Tracking: Keep tabs on your delivery with our detailed UI, ensuring yo
 
 Order History: Access your order history to review past deliveries and plan for future ones based on your preferences.
 
-Join us on the journey towards a smarter, more efficient delivery experience with the Autonomous Delivery Hub. Embrace the future of autonomous deliveries, where convenience meets innovation.
+Join us on the journey towards a smarter, more efficient delivery experience with the WeGo. Embrace the future of autonomous deliveries, where convenience meets innovation.
