@@ -1,0 +1,1 @@
+A web-based application that allows users and suppliers to sign up and sign in to endeavor in an autonomous vechile deliver system that can deliver vaccines and other plugins as well. This web site also has remarkable features such as an detailed UI that showcases where the their deliver is on route to as well as an order hsitory that allows user to view their psat orders.
